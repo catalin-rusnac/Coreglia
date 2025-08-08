@@ -1,0 +1,1 @@
+import{M as e}from"./MigrationMapGeneric-B9gLimjb.js";import{d as a,c as r,a as o,o as n}from"./index-DraLWsxq.js";const p=a({__name:"Migration1881View",setup(t){return(c,s)=>(n(),r("main",null,[o(e,{year:"1881",csvFileName:"1881_merged_processed.csv"})]))}});export{p as default};
